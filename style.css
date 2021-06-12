@@ -41,4 +41,6 @@ img {
 
 .stonewall {
     text-align: center;
+    display: inline-block;
+    column-gap: 10px;
 }
