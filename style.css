@@ -9,3 +9,13 @@ nav {
 .blogpost {
     padding: 20px;
 }
+
+#post-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#post-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
