@@ -1,5 +1,6 @@
 * {
     background-color: #ADD8E6;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 nav {
@@ -32,4 +33,12 @@ nav {
 
 h2 {
     font-size: 1.2em;
+}
+
+img {
+    text-align: center;
+}
+
+.stonewall {
+    text-align: center;
 }
