@@ -4,7 +4,6 @@
 }
 
 nav {
-    position: sticky;
     font-size: 1em;
     text-align: center;
     top: 20px;
@@ -100,4 +99,10 @@ a[href="index.html"] {
 img[src="doggos.jpg"] {
     float: left;
     padding-right: 20px;
+}
+
+.navbar {
+    list-style-type: none;
+    text-align: center;
+    position: sticky;
 }
