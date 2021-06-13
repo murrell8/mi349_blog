@@ -96,3 +96,7 @@ a[href="index.html"] {
     padding: 10px;
     margin: 10px;
 }
+
+img[src="doggos.jpg"] {
+    float: left;
+}
