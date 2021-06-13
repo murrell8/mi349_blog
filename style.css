@@ -83,3 +83,9 @@ body {
 a[href="index.html"] {
     color:deeppink;
 }
+
+#post-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
