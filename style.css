@@ -89,3 +89,9 @@ a[href="index.html"] {
     flex-direction: column;
     justify-content: center;
 }
+
+.racism-community {
+    background-color: dimgrey;
+    padding: 10px;
+    margin: 10px;
+}
