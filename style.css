@@ -107,3 +107,10 @@ img[src="doggos.jpg"] {
     position: sticky;
     top: 0;
 }
+
+@media (max-width: 400px) {
+    body {
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color:honeydew;
+    }
+}
